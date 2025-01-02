@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Arunkumar M</h1>
 <h3 align="center">Hi there! I'm a passionate cloud developer with a strong focus on AWS technologies. I'm excited about building scalable and reliable cloud solutions that drive innovation.</h3>
 <img align="right" alt="Coding" width="400" src="https://brandonchan.ca/images/posts/nightcoding/nightcodingcolor.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arunkumarm437&label=Profile%20views&color=0e75b6&style=flat" alt="arunkumarm437" /> </p>
 
 - 🌱 I’m currently learning **AWS , GoLang , Datastructues**
 
